@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.view{
+    background-color: rgb(2, 1, 24);
+    min-height: 100vh;
+}
+.cont-text{
+    background-color: rgb(219, 4, 122);
+}
+.quote-btn{
+    background-color: limegreen;
+    color: aliceblue;
+}
+.quote-btn:hover{
+    background-color: limegreen;
+}
